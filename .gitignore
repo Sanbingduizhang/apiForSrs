@@ -1,0 +1,10 @@
+.idea
+.env.yaml
+local.yaml
+dev.yaml
+pro.yaml
+.DS_Store
+tmp/conf/*.conf
+tmp/video/*.mp4
+tmp/old/*.txt
+tmp/img/*.jpg
